@@ -3,7 +3,7 @@
 https://github.com/GossJS/ifmo-2019/tree/tasks-2020-spring
 <h4 id="author" title="GossJS">Кутлахметов Рустам</h4>
 iife - https://kodaktor.ru/iife_3f564
-func_001 - https://kodaktor.ru/task_func_b35fe <\br>
+func_001 - https://kodaktor.ru/task_func_b35fe <br>
 func_002 - https://kodaktor.ru/func_8acc8<\br>
 func_003 - https://kodaktor.ru/func_92471<\br>
 func_004 - https://kodaktor.ru/func_ec9b3<\br>
